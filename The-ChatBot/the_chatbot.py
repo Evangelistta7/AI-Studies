@@ -9,7 +9,7 @@ client = openai.Client()
 print('\t**** Welcome to the @Evangelistta7 ChatBot ****')
 print('\t\t** powered by gpt-4o-mini **\n')
 
-print('Type your message bellow:                    [Enter 0 to Stop]\n')
+print('Type your message below:                    [Enter 0 to Stop]\n')
 
 # Starting the list
 msg = []
